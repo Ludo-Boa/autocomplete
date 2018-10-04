@@ -1,0 +1,20 @@
+.md-form {
+	position: relative;
+}
+.select-dropdown {
+	position: relative;
+}
+.select-options {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    display: block;
+    z-index: 2;
+    padding-left: inherit;
+    list-style: none;
+    background: #fff;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 7px;
+}
